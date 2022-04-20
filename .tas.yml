@@ -14,4 +14,4 @@ postMerge:
   pattern:
     # glob-patterns to discover tests to run in case of postMerge
     - "demo01/*.js"
-    - "demo02/src/*.js"
+    - "demo02/test/*.js"
